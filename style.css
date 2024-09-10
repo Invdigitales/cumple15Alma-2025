@@ -309,11 +309,12 @@ margin-top: -5%;
 }
 
 .parrafoD{
+  margin: 15%;
   text-align: center;
-  font-family:'Times New Roman', Times, serif; 
-   font-size: 18px;
-   color:#3b5351;
-
+  color: #434343;
+  font-family: 'Dancing Script', cursive; 
+  font-size: 24px;
+  margin-top: 5%;
 }
 
 
